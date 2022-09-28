@@ -6,7 +6,7 @@ When grabbing the data from the CSV file and slicing the data, trading signals w
 
 The data was then split into training and testing datasets, with scaling the X training and testing datasets. Once scaled, the first classifier model was used to makie predictions based on the testing data. The first classifer model used was the SVC Model. When running the classification report, the results shown were the following: accuracy was 55%, precision was 43% and recall was 4% to sell, and precision was 56% and recall was 96% to buy. 
 
-A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns were as follows:
+A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns was as follows:
 
 ![SVM_plot](SVM_plot.png)
 
@@ -14,7 +14,7 @@ The plot shows that the returns predicted from this model performed better than 
 
 The second classifer model used was the Logistic Regression Model. When running the classification report, the results shown were the following: accuracy was 52%, precision was 44% and recall was 33% to sell, and precision was 56% and recall was 66% to buy. 
 
-A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns were as follows:
+A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns was as follows:
 
 ![LR_plot](LR_plot.png)
 
