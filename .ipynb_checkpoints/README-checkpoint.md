@@ -8,7 +8,7 @@ The data was then split into training and testing datasets, with scaling the X t
 
 A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns were as follows:
 
-(SVM_plot.png)
+!(SVM_plot.png)
 
 The plot shows that the returns predicted from this model performed better than the actual returns of the algorithm. 
 
@@ -16,7 +16,7 @@ The second classifer model used was the Logistic Regression Model. When running 
 
 A new DataFrame was created that contained the predicted values for this model, the actual returns and the strategy returns. The performance plot showing the actual returns versus the strategy returns were as follows:
 
-(LR_plot.png)
+!(LR_plot.png)
 
 The plot shows that for the most part, the strategy returns outperformed the actual returns except for 2021. On this year, you can see the returns inversed and shows the actual returns perfoming higher.
 
