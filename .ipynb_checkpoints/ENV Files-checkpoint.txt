@@ -1,0 +1,8 @@
+ENV Files:
+
+-For the BootCamp Class - Alpaca
+API Key ID: PKP30FE1ES2MJ56P5N3R
+Secret Key: qhnuebsYg7JiQhEdNLqVR6KxQnLRsTjUXf4YpGHL
+
+-Nasdaq Data Link
+API Key ID: DaCEWrQxwXycu67_nahs
